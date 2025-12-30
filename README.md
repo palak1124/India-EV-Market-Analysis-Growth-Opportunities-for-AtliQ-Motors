@@ -22,6 +22,8 @@ The analysis combines primary data analysis, secondary research, and strategic c
 
 6. How to position the brand for long-term success
 
+**[View Interactive Power BI Dashboard (View-only)](https://app.powerbi.com/view?r=eyJrIjoiNGM4ZTZkNGQtMjNiYi00ZjQ0LWEyYmQtYTA3Y2FmZTgwNjQ2IiwidCI6ImExNzMxZTY3LTM2ZmEtNDAxOC1hZGFjLTYwZjQ1MmFlYmViMiJ9)**
+
 ## Key Questions Addressed
 ### Primary Analysis
 
@@ -87,9 +89,6 @@ The analysis combines primary data analysis, secondary research, and strategic c
 
 4. Secondary Research – McKinsey, Deloitte, MoRTH, policy reports
 
-### Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiNGM4ZTZkNGQtMjNiYi00ZjQ0LWEyYmQtYTA3Y2FmZTgwNjQ2IiwidCI6ImExNzMxZTY3LTM2ZmEtNDAxOC1hZGFjLTYwZjQ1MmFlYmViMiJ9
-
-
 ## Assumptions & Limitations
 
 Sales projections are based on FY2022–FY2024 CAGR
@@ -104,6 +103,9 @@ This project was developed as part of the Codebasics EV Market Challenge, inspir
 Feedback and suggestions are welcome!
 
 ## Author
+
 Palak
+
 MBA | Data & Business Analytics
-LinkedIn: (https://www.linkedin.com/in/palakmittan/)
+
+**[LinkedIn](https://www.linkedin.com/in/palakmittan/)**
